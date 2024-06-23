@@ -1,0 +1,9 @@
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash ${foo}oo...where as in java we would foo + "oo"

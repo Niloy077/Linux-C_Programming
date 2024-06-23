@@ -1,0 +1,635 @@
+    1  logout
+    2  sudo apt install gcc
+    3  gcc --version
+    4  touch ~/.gcc9
+    5  gcc --version
+    6  exit
+    7  gcc --version
+    8  touch ~/.gcc9
+    9  whoami
+   10  echo $SHELL
+   11  uname -a
+   12  cat /etc/debian
+   13  gcc --version -std=c17
+   14  exit
+   15  cd
+   16  whoami
+   17  echo $SHELL
+   18  pwd
+   19  uname -a
+   20  gcc --version -std=c17
+   21  exit
+   22  gcc --version
+   23  ls -a ~ | grep .gcc9
+   24  cd
+   25  script hw0.script
+   26  hw0.script
+   27  script hw0.script
+   28  cat hw0.script
+   29  hw0.script
+   30  script hw0.script
+   31  cat hw0.script
+   32  find ~ -name hw0.script
+   33  exit
+   34  whoami
+   35  ls -l
+   36  ps
+   37  chmod
+   38  chmod --helpl
+   39  ps --help
+   40  chmod --help
+   41  *
+   42  quota
+   43  quota --help
+   44  ls -l
+   45  cat hw0.script
+   46  C:
+   47  cexit
+   48  cd /
+   49  cat hw0.script
+   50  c/
+   51  C:
+   52  cd C
+   53  cd C:
+   54  cd C/
+   55  find ~ -name "hw0.script"
+   56  cd home
+   57  cd niloy
+   58  cd /home/niloy/hw0.script 
+   59  cd /home/niloy/
+   60  ./hw0.script
+   61  sudo ./hw0.script
+   62  sudo hw0.script
+   63  #! hw0.script
+   64  find ~ -name "hw0.script"
+   65  cd /home/niloy/hw0.script
+   66  cd /home/niloy
+   67  ./hw0.script
+   68  chmod +x hw0.script
+   69  ls -l hw0.script
+   70  ./hw0.script
+   71  cat hw0.script
+   72  cls
+   73  clear
+   74  cat hw0.script
+   75  cd home/niloy/hw0.script
+   76  cd home/nilo
+   77  cd home/niloy
+   78  home
+   79  cd homw
+   80  cd home
+   81  cd..
+   82  c:
+   83  clear
+   84  pwd
+   85  hw0.script
+   86  cat hw0.script
+   87  ls -a
+   88  vscode &
+   89  exit
+   90  pwd
+   91  cd home
+   92  home
+   93  cd /
+   94  home
+   95  cd home
+   96  cd niloy
+   97  cat hw0.script
+   98  jobs
+   99  fg
+  100  kill
+  101  ps aux
+  102  mkdir cse374-demo
+  103  cd cse374-demo/
+  104  pwd
+  105  ls
+  106  ls -a
+  107  ls -al
+  108  cd ..
+  109  pwd
+  110  ls -l
+  111  cd ..
+  112  pwd
+  113  cd cse374-demo/
+  114  cd niloy
+  115  cd cse374-demo/
+  116  cd~
+  117  pwd
+  118  cd ~
+  119  pwd
+  120  cd ~/cse374-demo
+  121  cd /
+  122  ls -l
+  123  pwd
+  124  whoami
+  125  cd ~niloy
+  126  cd/
+  127  cd /
+  128  pwd
+  129  cd ~
+  130  pwd
+  131  cd ~
+  132  pwd
+  133  cd ~'whoami'
+  134  cd ~`whoami`
+  135  cd ~
+  136  cd cse374-demo/
+  137  echo hello cse374!
+  138  echo ~
+  139  echo whoami
+  140  echo `whoami`
+  141  echo $shell
+  142  echo $SHELL
+  143  echo $PATH
+  144  ls
+  145  cd..
+  146  cd ..
+  147  pwd
+  148  cd hw0.script 
+  149  ls hw0.script
+  150  ls
+  151  pwd
+  152  ls
+  153  cd cse374-demo/
+  154  date
+  155  which date
+  156  echo SHELL
+  157  echo ~/cse374*
+  158  cd /
+  159  echo ~/cse374*
+  160  cd /
+  161  pwd
+  162  echo ~/cse374*
+  163  ls ~
+  164  echo ~
+  165  printenv
+  166  echo asdfasdas
+  167  echo ~
+  168  echo $SHELL
+  169  echo `
+  170  hi
+  171  exit
+  172  echo \`
+  173  exit
+  174  logout
+  175  cd/
+  176  cd /
+  177  cd ~
+  178  pwd
+  179  ls
+  180  echo secret >magic-word
+  181  cat
+  182  echo secret >magic-word
+  183  ls -l
+  184  man cat
+  185  info cat
+  186  info
+  187  c/
+  188  c /
+  189  pwd
+  190  cd /
+  191  man cd
+  192  echo `
+  193  hello
+  194  clear
+  195  how ae
+  196  ayoy
+  197  ls
+  198  echo echo\`
+  199  echo 'echo`'
+  200  echo \`
+  201  echo '`'
+  202  echo \`
+  203  exit
+  204  out
+  205  logout
+  206   czat
+  207  echo i
+  208  echo secret >magic-word
+  209  cat magic-word
+  210  ls
+  211  cd magic-word 
+  212  pwd
+  213  realpath magic-word
+  214  exit
+  215  start .
+  216  pwd
+  217  cd start .
+  218  xdg-open .
+  219  uname
+  220  nautilus .
+  221  cmd
+  222  sudo apt-get install xdg-utils
+  223  exit
+  224  xdg-open
+  225  pwd
+  226  xdg-open c
+  227  cd home
+  228  cd /
+  229  pwd
+  230  cd users
+  231  cd c
+  232  cd C
+  233  cd C/
+  234  clear
+  235  pwd
+  236  /users
+  237  cd /users
+  238  cd users/
+  239  cd C:/users
+  240  clear
+  241  cd ~
+  242  pwd
+  243  xdg-open .
+  244  sudo apt-get remove xdg-utils
+  245  sudo apt-get purge xdg-utils
+  246  sudo apt-get autoremove
+  247  dpkg -l | grep xdg-utils
+  248  dpkg -l | grep gcc
+  249  clear
+  250  pwd
+  251  ls
+  252  cd cse374-demo
+  253  ls
+  254  ls -l
+  255  ls -al
+  256  echo `
+  257  \*
+  258  date ==date "Jun 30 2000" +%A
+  259  date --date "Jun 30 2000" +%A
+  260  ls
+  261  ls /etc
+  262  ls -l
+  263  ls -la
+  264  clear
+  265  ls file1 file2
+  266  cd ~
+  267  ls file1 file2
+  268  touch file1 file2
+  269  ls
+  270  echo $PATH
+  271  ls
+  272  which ls
+  273  ls .l /usr/bin/ls
+  274  clear
+  275  pwd
+  276  ls
+  277  dir
+  278  ls -R
+  279  ls -al -R
+  280  ls /home
+  281  ls -a
+  282  man pwd
+  283  man -ls
+  284  man ls
+  285  sudo apt-get install man
+  286  man ls
+  287  pwd
+  288  cd desktop
+  289  /mnt
+  290  cd /mnt/c/
+  291  cd user/niloy/desktop
+  292  /users
+  293  cd users
+  294  cd niloy/desktop
+  295  touch linux.txt
+  296  ls
+  297  cd ~
+  298  ls
+  299  cd cse374-demo/
+  300  echo Welcome to CSE 374
+  301  echo Welcome to CSE 374 > welcome.message
+  302  ls
+  303  more welcome.message
+  304  cat welcome.message 
+  305  cd
+  306  ls -R
+  307  mkdir temp374
+  308  ls
+  309  cp cse374-demo/welcome.message temp374/
+  310  ls -R
+  311  cp temp374/welcome.message ./
+  312  ls
+  313  pwd
+  314  mkdir funfun
+  315  cd temp374/
+  316  move welcome.message funfun/
+  317  mv welcome.message funfun/
+  318  cd ..
+  319  mv welcome.message funfun/
+  320  ls _R
+  321  ls -R
+  322  cd temp374/
+  323  mkdir funfun
+  324  move welcome.message  funfun/
+  325  md welcome.message funfun/
+  326  mv welcome.message funfun/
+  327  ls R
+  328  ls -R
+  329  cd
+  330  ls _R
+  331  ls -R
+  332  cd users
+  333  cd 
+  334  pwd
+  335  ls -R
+  336  ./temp374/funfun/
+  337  pwd
+  338  ./temp374/funfun
+  339  ~/temp374/
+  340  cd temp374/
+  341  cd funfun/
+  342  echo this course is awesome >> welcome.message 
+  343  more welcome.message 
+  344  wc welcome.message 
+  345  man wc
+  346  wc --help
+  347  man -k count
+  348  eho hip
+  349  echo hip hop
+  350  history
+  351  echo hip hop
+  352  ls -R
+  353  ! w
+  354  ! a
+  355  echo hip hop
+  356  history
+  357  cd
+  358  cat hw0.script 
+  359  mnt/c
+  360  pwd
+  361  /mnt
+  362  mnt
+  363  /mnt/c/users/niloy/downloads && start .
+  364  /mnt/c/users/niloy/downloads
+  365  /mnt/c/users/niloy
+  366  cd /mnt/c/users
+  367  cd niloy/dowloads/
+  368  cd /niloy/
+  369  cd /niloy
+  370  cd ..
+  371  /users
+  372  cd users/
+  373  cd niloy
+  374  cd downloads
+  375  ls -R
+  376  cd something_from_cse374_uw.mp4 
+  377  cd..
+  378  cd ..
+  379  cd desktop
+  380  ls -R
+  381  ls
+  382  cd
+  383  dpkg --get-selections | grep -i media
+  384  exit
+  385  history
+  386  clear
+  387  ls -l
+  388  ls -R
+  389  cheer
+  390  pwd
+  391  cd ~
+  392  ls -R
+  393  cd temp374/
+  394  cd ..
+  395  cd funfun
+  396  del welcome.message 
+  397  rm welcome.message 
+  398  pwd
+  399  cd ..
+  400  rmdir funfun/
+  401  pwd
+  402  ls -R
+  403  cd magic-word 
+  404  magic-word
+  405  man ls
+  406  cd cse374-demo/
+  407  rm -i welcome.message 
+  408  ls
+  409  ls -R
+  410  cd ..
+  411  ls -R
+  412  cd temp374/
+  413  mv welcome.message ./cse374-demo
+  414  mv ~/temp374/funfun/welcome.message  ~/cse374-demo/
+  415  cd ..
+  416  ls -R
+  417  ls -l
+  418  ls -al
+  419  cd temp374/
+  420  cd funfun/
+  421  cd ../..
+  422  cd cse374-demo/
+  423  cat
+  424  cd ..
+  425  cat cse374-demo/
+  426  /usr
+  427  /mnt/c/users
+  428  cd /mnt/c/users
+  429  cd niloy
+  430  /usr
+  431  cd /usr
+  432  pwd
+  433  cd ~
+  434  cd /etc
+  435  pwd
+  436  ls
+  437  hostname
+  438  kernel
+  439  issue
+  440  cd issue
+  441  netconfig
+  442  cd..
+  443  cd ..
+  444  ps
+  445  locate welcome.message
+  446  netstat
+  447  man djpeg
+  448  alias cheer="echo hip hip horray\!"
+  449  cheer
+  450  source .bashrc
+  451  ls -l
+  452  ls -al
+  453  pwd
+  454  cd ~
+  455  pwd
+  456  nano ~/.bashrc
+  457  touch ~/.bashrc
+  458  ls -a ~ | grep .bashrc
+  459  ls -a
+  460  nano .bashrc
+  461  cheer
+  462  exit
+  463  cheer
+  464  source .bashrc
+  465  exit
+  466  vscode
+  467  cd desktop
+  468  cd ../../..
+  469  cd program files
+  470  cd "program files"
+  471  cd 
+  472  cd "C:\Users\Niloy\AppData\Local\Programs\Microsoft VS Code"
+  473  cd C:\Users\Niloy\AppData\Local\Programs\Microsoft VS Code
+  474  cd mnt/C/users/Niloy/AppData/Local/Programs/Microsoft VS Code
+  475  mnt/C/users/Niloy/AppData/Local/Programs/Microsoft VS Code
+  476  code .
+  477  pacman -S mingw-w64-x86_64-emacs
+  478  sudo apt-get install emacs
+  479  emacs
+  480  clear
+  481  code .
+  482  emacs
+  483  fg
+  484  emacs &
+  485  fg
+  486  emacs
+  487  fg
+  488  emacs
+  489  clear
+  490  fg
+  491  cleae
+  492  clear
+  493  emacs
+  494  fg
+  495  emacs &
+  496  cd /mnt/c
+  497  cd..
+  498  cd
+  499  cd /mnt
+  500  cd c/users/niloy
+  501  cd downloads
+  502  mv "CSE 374 UW Programmign concepts and tools"/ /e/nsu
+  503  mv "CSE 374 UW Programmign concepts and tools"/ mnt/e/nsu
+  504  mv "CSE 374 UW Programmign concepts and tools" e/nsu
+  505  mv "CSE 374 UW Programmign concepts and tools"/ d/NSU
+  506  mv "CSE 374 UW Programmign concepts and tools"/ e/NSU
+  507  mv "CSE 374 UW Programmign concepts and tools"/ /E/NSU
+  508  mv "CSE 374 UW Programmign concepts and tools"/ E:/NSU
+  509  cd
+  510  mv /mnt/c/users/niloy/downloads
+  511  man mv
+  512  mv --help
+  513  mv "/mnt/c/users/niloy/downloads/CSE 374 UW Programmign concepts and tools" /mnt/e/NSU/
+  514  mv "/mnt/e/NSU/CSE 374 UW Programmign concepts and tools"/ /mnt/e/CSE/
+  515  exit
+  516  cd
+  517  echo 'alias lshome="ls $HOME"'
+  518  echo 'alias lshome="ls $HOME"' > makealias
+  519  ls makealias 
+  520  more makealias
+  521  lshome
+  522  ls home
+  523  ls -R
+  524  date > recordinfo
+  525  more recordinfo 
+  526  hostname > recordinfo
+  527  cat recordinfo 
+  528  ls recordinfo 
+  529  more recordinfo
+  530  date > recordinfo 
+  531  hostname > recordinfo 
+  532  more recordinfo 
+  533  date > recordinfo
+  534  more recordinfo 
+  535  date >> recordinfo
+  536  hostname >> recordinfo
+  537  more recordinfo 
+  538  grep 'mh' *
+  539  grep 'UB' *
+  540  grep `whoami` *
+  541  ls /homes | grep mh75
+  542  ls /homes | wc
+  543  pwd
+  544  ls /home | wc
+  545  ls -R
+  546  more sdel
+  547  man sdel
+  548  cat < recordinfo 
+  549  cat welcome.message 
+  550  cat welcome.message "\n"
+  551  exit
+  552  cal
+  553  cd~
+  554  clear
+  555  cd ~
+  556  cal
+  557  date
+  558  uname
+  559  cat welcome.message 
+  560  wc welcome.message 
+  561  more welcome.message
+  562  clear
+  563  head welcome.message 
+  564  less welcome.message 
+  565  cd /mnt/e/NSU/
+  566  cd ..
+  567  cd cse
+  568  cd "CSE 374 UW Programmign concepts and tools"/
+  569  less "Daniel J. Barrett - Linux Pocket Guide_ Essential Commands-O’Reilly Media (2016).pdf" 
+  570  cd
+  571  /mnt/c/users/desktop
+  572  cd /mnt/c/users/desktop
+  573  cd /mnt/c/users/niloy/desktop
+  574  more git.txt
+  575  less git.txt
+  576  wc git.txt
+  577  exit
+  578  grep "nsu"
+  579  cd desktop
+  580  touch try.txt
+  581  1 > try.txt
+  582  try.txt > 1
+  583  echo 1 > try.txt
+  584  echo 4 > try.txt
+  585  echo 0 > try.txt
+  586  more try.txt
+  587  echo 1 >> try.txt
+  588  echo 4 >> try.txt
+  589  echo 0 >> try.txt
+  590  cat try.txt
+  591  sort try.txt
+  592  uniq try.txt
+  593  echo hello there >> try.txt
+  594  cat try.txt
+  595  uniq try.txt
+  596  which ls
+  597  which man
+  598  which echo
+  599  echo henry james >> try.txt
+  600  echo mina arab >> try.txt
+  601  sort try.txt
+  602  sort -r try.txt
+  603  ps
+  604  top
+  605  emacs
+  606  bg
+  607  fg
+  608  /bin
+  609  cd
+  610  /bin
+  611  /dev
+  612  /home
+  613  dev
+  614  /proc
+  615  /usr
+  616  /media
+  617  ls /media
+  618  ls /bin
+  619  ls /dev
+  620  /etc
+  621  ls /etc
+  622  more passwd
+  623  /passwd
+  624  ls passwdd
+  625  ls /etc/shadow
+  626  ls /home
+  627  ls /proc
+  628  ls /usr
+  629  wc *
+  630  clear
+  631  history
+  632  /mnt/c/users/niloy/desktop/
+  633  cd /mnt/c/users/niloy/desktop/
+  634  touch lec4.history
+  635  history >> lec4.history

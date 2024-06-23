@@ -1,0 +1,99 @@
+Certainly! Here is the updated list incorporating the new shell history while maintaining the order and not repeating any commands unnecessarily:
+
+1. `pwd` -> Print the current working directory.
+2. `ls` -> List files and directories in the current directory.
+3. `ls -a` -> List all files, including hidden files.
+4. `ls -al` -> List all files with detailed information.
+5. `cd` -> Change the current directory.
+6. `cd ..` -> Change to the parent directory.
+7. `cd .` -> Stay in the current directory (effectively does nothing).
+8. `cd ~` -> Change to the home directory.
+9. `cd ~username` -> Change to the home directory of a specific user.
+10. `cd /` -> Change to the root directory.
+11. `cd bin` -> Change to the 'bin' directory inside the current directory.
+12. `mkdir` -> Create a new directory.
+13. `rmdir` -> Delete an empty directory.
+14. `man` -> Display the manual page for a command.
+15. `info` -> Display detailed documentation for a command.
+16. `apropos` (or `man -k`) -> Search for commands by keyword.
+17. `clear` -> Clear the terminal screen.
+18. `exit` -> Exit the current shell session.
+19. `date` -> Display the current date and time.
+20. `cal` -> Display a text calendar.
+21. `uname` -> Display system information.
+22. `cp` -> Copy a file or directory.
+23. `mv` -> Move or rename a file or directory.
+24. `rm` -> Remove a file or directory.
+25. `touch` -> Update the file's last modified timestamp or create an empty file.
+26. `cat` -> Concatenate and display file content.
+27. `more` -> View file content one screen at a time.
+28. `less` -> View file content one screen at a time with backward movement.
+29. `head` -> Display the first few lines of a file.
+30. `tail` -> Display the last few lines of a file.
+31. `wc` -> Count lines, words, and characters in a file.
+32. `du` -> Display disk usage of files and directories.
+33. `diff` -> Compare two files line by line.
+34. `grep` -> Search for a pattern in a file.
+35. `sort` -> Sort lines of text files.
+36. `uniq` -> Report or omit repeated lines.
+37. `find` -> Search for files in a directory hierarchy.
+38. `locate` -> Find files by name.
+39. `which` -> Show the full path of shell commands.
+40. `history` -> Display the command history.
+41. `ps` -> Report a snapshot of current processes.
+42. `top` -> Display tasks and system status.
+43. `kill` -> Terminate a process by PID.
+44. `killall` -> Terminate processes by name.
+45. `bg` -> Resume a suspended process in the background.
+46. `fg` -> Bring a background process to the foreground.
+47. `emacs &` -> Open Emacs editor in the background.
+48. `echo` -> Display a line of text.
+49. `printenv` -> Print all or part of the environment.
+50. `cat >file` -> Create or overwrite a file with content entered from the terminal.
+51. `cat >>file` -> Append content to a file from the terminal.
+52. `ls -l` -> List files in long format with detailed information.
+53. `ls bin` -> List files in the 'bin' directory.
+54. `whoami` -> Display the current logged-in username.
+55. `echo $SHELL` -> Display the shell currently being used.
+56. `echo $PATH` -> Display the current PATH environment variable.
+57. `echo ~` -> Display the home directory path.
+58. `echo \`command\`` -> Execute a command and display its output.
+59. `echo secret >magic-word` -> Write "secret" to the file 'magic-word'.
+60. `cp magic-word special-word` -> Copy 'magic-word' to 'special-word'.
+61. `mv magic-word word` -> Rename 'magic-word' to 'word'.
+62. `cat word` -> Display the content of 'word'.
+63. `cat >story.txt` -> Create 'story.txt' with content entered from the terminal.
+64. `wc story.txt` -> Count lines, words, and characters in 'story.txt'.
+65. `echo *` -> Display all files and directories in the current directory.
+66. `wc *` -> Count lines, words, and characters for all files in the current directory.
+67. `cd` -> Change to the home directory.
+68. `history >lec2.history` -> Save the command history to 'lec2.history'.
+69. `who` -> Show who is logged on and their login times.
+70. `mv welcome.message ../` -> Move 'welcome.message' one level up in the directory hierarchy.
+71. `mkdir temp374` -> Create a new directory named 'temp374'.
+72. `mv welcome.message temp374/` -> Move 'welcome.message' into 'temp374/'.
+73. `ls -R` -> List all files in the current directory and subdirectories recursively.
+74. `cd 374files/` -> Change to the '374files' directory.
+75. `cat 374files/hw0.script` -> Display the content of 'hw0.script' in the '374files' directory.
+76. `emacs` -> Open the Emacs editor.
+77. `ps -u` -> Display processes for a specific user.
+78. `ps -aux` -> Display detailed information about all processes.
+79. `echo Welcome to my course` -> Display "Welcome to my course" in the terminal.
+80. `mv temp374/welcome.message ./` -> Move 'welcome.message' from 'temp374/' to the current directory.
+81. `echo Welcome to my course >> welcome.message` -> Append "Welcome to my course" to 'welcome.message'.
+82. `more welcome.message` -> View 'welcome.message' content one screen at a time.
+83. `man cat` -> Display the manual page for the 'cat' command.
+84. `man -k read` -> Search for manual pages related to "read".
+85. `man -k read | head` -> Display the first few lines of manual pages related to "read".
+86. `man wc` -> Display the manual page for the 'wc' command.
+87. `wc --help` -> Display help information for the 'wc' command.
+88. `help` -> Display help for shell built-in commands.
+89. `ls *.script` -> List all files ending with '.script'.
+90. `ls [a-z]*.script` -> List all files starting with a lowercase letter and ending with '.script'.
+91. `echo hip hip hooray` -> Display "hip hip hooray" in the terminal.
+92. `echo hip hip hooray awesome` -> Display "hip hip hooray awesome" in the terminal.
+93. `echo hip hip` -> Display "hip hip" in the terminal.
+94. `alias cheer="echo yay"` -> Create an alias 'cheer' that echoes "yay".
+95. `cheer` -> Execute the alias 'cheer' to display "yay".
+96. `source .bashrc` -> Reload the shell configuration from '.bashrc'.
+97. `history > lecture2notes` -> Save the command history to 'lecture2notes'.

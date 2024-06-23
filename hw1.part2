@@ -1,0 +1,26 @@
+NAME
+ 1)      wc - print newline, word, and byte counts for each f
+    -l, --lines
+              print the newline counts
+2)22   26 1067 /etc/passwd
+3)kill <pid>
+4)The $HOME variable stores the path to the current user's home directory.
+5)Two Important Environment Variables
+1. $PATH:
+
+Stores the directories where the system looks for executable files.
+Important because it determines which directories are searched for commands and scripts when they are run.
+2. $USER:
+
+Stores the username of the current logged-in user.
+Important because it identifies the user running commands and accessing resources on the system.
+6)find command to find
+7)find: Searches for files in a directory hierarchy based on given criteria (e.g., name, type, size).
+which: Locates a command by searching the directories listed in the $PATH environment variable.
+8) Difference Between echo Hello World! > something and echo Hello World!
+echo Hello World!: Prints "Hello World!" to the standard output (usually the terminal).
+echo Hello World! > something: Redirects the output "Hello World!" to a file named something, overwriting its content if it exists.
+9)9. Effect of echo more text > something
+echo more text > something: Redirects the output "more text" to the file something, overwriting its content. If something already contained "Hello World!", it will now only contain "more text".
+10. Effect of echo yet more text >> something
+echo yet more text >> something: Appends "yet more text" to the end of the file something without overwriting its existing content

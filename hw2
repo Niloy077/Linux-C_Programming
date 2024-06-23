@@ -1,0 +1,37 @@
+Script started on 2024-06-22 21:57:18+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo tweet >/dev/null
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ caat[K[Kt </dev/null; echo tww[Keet
+[?2004ltweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ls /nones[Kxistentpath 2>/dev/null [K; echo tweet
+[?2004ltweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ grep nonei[Kxistent [Ksgt[K[Ktring nonexistentfile 2>/dev/n l[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn ull [K; echo tweet
+[?2004ltweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ !! 2>/dev/null [K; ehco [K[K[K[Kcho w[Ktweet
+[?2004lgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; echo tweet
+tweet
+tweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 22:00:35+06:00 [COMMAND_EXIT_CODE="130"]
+Script started on 2024-06-22 22:01:45+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ !![K[Kgrep[K[K[K[K!! 2>[K[K[K[K[Kgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [4Pls /nonexistentpath 2>/dev/null; echo tweet
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet
+[?2004ltweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ grep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [4Pls /nonexistentpath 2>/dev/null; echo tweet
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [4Pls /nonexistentpath 2>/dev/null; echo tweet
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat <[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pecho tweet >/dev/nullcat </dev/null; echo tweet[17@ls /nonexistentpath 2>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 2>/dev/null; echo tweet[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [4Pls /nonexistentpath 2>/dev/null; echo tweet
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat <[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K!! 2>/dev/null;
+[?2004lgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null;
+tweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ !! >/dev/null; echo tweet
+[?2004lgrep nonexistentstring nonexistentfile 2>/dev/null; echo tweet 2>/dev/null; >/dev/null; echo tweet
+tweet
+tweet
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 22:05:08+06:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,140 @@
+Script started on 2024-06-21 22:46:21+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo "Hello Wor[K[K[Kwr[Korld"
+[?2004lHello world
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ date
+[?2004lFri Jun 21 10:46:38 PM +06 2024
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ tiem[K[K[K[Kcal
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+cal: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ cd $HOME
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ pwd
+[?2004l/home/niloy
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ ls -R
+[?2004l.:
+[0m[01;34mcse374-demo[0m  file1  file2  [01;32mhw0.script[0m  magic-word  makealias  recordinfo  [01;34mtemp374[0m  welcome.message
+
+./cse374-demo:
+hello  lscmd  weekend.txt  welcome.message
+
+./temp374:
+[01;34mfunfun[0m
+
+./temp374/funfun:
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ r[Kmkdir temp
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ mo[Kv d[Ktemp files
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ cd files
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ date >> now
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ mk[K[Kcp now before
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ mk secret [K[K[K[K[K[K[Ksecret >> "xyx[Kzzy"[1P "xyzzy"[1P "xyzzy"< "xyzzy"< "xyzzy"[C[C[C[C[C[C[C[C
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ cd secret
+[?2004lbash: cd: secret: No such file or directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ echo "xyzzy" > [K>s[K secret
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ ls -l
+[?2004ltotal 12
+-rw-r--r-- 1 niloy niloy 32 Jun 21 22:50 before
+-rw-r--r-- 1 niloy niloy 32 Jun 21 22:49 now
+-rw-r--r-- 1 niloy niloy  6 Jun 21 22:52 secret
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ ls -al
+[?2004ltotal 20
+drwxr-xr-x 2 niloy niloy 4096 Jun 21 22:52 [0m[01;34m.[0m
+drwx------ 8 niloy niloy 4096 Jun 21 22:48 [01;34m..[0m
+-rw-r--r-- 1 niloy niloy   32 Jun 21 22:50 before
+-rw-r--r-- 1 niloy niloy   32 Jun 21 22:49 now
+-rw-r--r-- 1 niloy niloy    6 Jun 21 22:52 secret
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ mv secret magic
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~/files[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~/files[00m$ cd ..
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ rmdir files[K[K[K[K[K[K[K[K[K -rf -[Kfolder[K[K[K[K[Kiles
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ echo "It's a secret!" > sece[Kretfile
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ chmod a [K-w secretfile
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ ls -l secrietfile[K[K[K[K[K[K[Ketfile
+[?2004l-r--r--r-- 1 niloy niloy 15 Jun 21 22:55 secretfile
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ cat secretfile
+[?2004lIt's a secret!
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ cat >> secretfile
+[?2004lbash: secretfile: Permission denied
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ chmod a-r secretfile
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ ls -l secretfile
+[?2004l---------- 1 niloy niloy 15 Jun 21 22:55 secretfile
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ cat secretfile
+[?2004lcat: secretfile: Permission denied
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ $HOSt
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ hostname
+[?2004lLAPTOP-UB23RQRP
+[?2004h]0;niloy@LAPTOP-UB23RQRP: ~[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m~[00m$ [?2004l
+exit
+
+Script done on 2024-06-21 23:07:56+06:00 [COMMAND_EXIT_CODE="0"]
+  PID TTY          TIME CMD
+   17 pts/0    00:00:00 bash
+  184 pts/0    00:00:00 ps
+niloy:x:1000:1000:,,,:/home/niloy:/bin/bash
+WC(1)                                       User Commands                                       WC(1)
+
+NAME
+       wc - print newline, word, and byte counts for each file
+
+SYNOPSIS
+       wc [OPTION]... [FILE]...
+       wc [OPTION]... --files0-from=F
+
+DESCRIPTION
+       Print  newline, word, and byte counts for each FILE, and a total line if more than one FILE is
+       specified.  A word is a non-zero-length sequence of printable characters  delimited  by  white
+       space.
+
+       With no FILE, or when FILE is -, read standard input.
+
+       The  options below may be used to select which counts are printed, always in the following or‐
+       der: newline, word, character, byte, maximum line length.
+
+       -c, --bytes
+              print the byte counts
+
+       -m, --chars
+              print the character counts
+
+       -l, --lines
+              print the newline counts
+
+       --files0-from=F
+              read input from the files specified by NUL-terminated names in file F; If F is  -  then
+              read names from standard input
+
+       -L, --max-line-length
+              print the maximum display width
+
+       -w, --words
+              print the word counts
+
+       --help display this help and exit
+
+       --version
+              output version information and exit
+
+AUTHOR
+       Written by Paul Rubin and David MacKenzie.
+
+REPORTING BUGS
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       Report any translation bugs to <https://translationproject.org/team/>
+
+COPYRIGHT
+       Copyright  ©  2022  Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later
+       <https://gnu.org/licenses/gpl.html>.
+       This is free software: you are free to change and redistribute it.  There is NO  WARRANTY,  to
+       the extent permitted by law.
+
+SEE ALSO
+       Full documentation <https://www.gnu.org/software/coreutils/wc>
+       or available locally via: info '(coreutils) wc invocation'
+
+GNU coreutils 9.1                           September 2022                                      WC(1)
+Script started on 2024-06-22 13:02:18+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ pq[Kwd
+[?2004l/mnt/c/users/niloy/desktop/cse374
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 13:02:47+06:00 [COMMAND_EXIT_CODE="130"]

@@ -1,0 +1,1366 @@
+Script started on 2024-06-22 19:32:58+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ foo [K = "e[Khello"
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+foo: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ foo="hello"
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $foo
+[?2004lhello
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ foo -[K[K="world"
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $foo
+[?2004lworld
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ unset foo
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $foo
+[?2004l
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more $foo
+[?2004lmore: bad usage
+Try 'more --help' for more information.
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ cat foo
+[?2004lcat: foo: No such file or directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $pa[K[KPATH
+[?2004l/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/TheDebianProject.DebianGNULinux_1.16.0.0_x64__76v4gfsz19hv4:/mnt/c/Program Files/Python310/Scripts/:/mnt/c/Program Files/Python310/:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/windows/system32:/mnt/c/windows:/mnt/c/windows/System32/Wbem:/mnt/c/windows/System32/WindowsPowerShell/v1.0/:/mnt/c/windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin:/mnt/c/Program Files/dotnet/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/Niloy/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Niloy/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.2.3/bin:/mnt/c/adb:/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin:/mnt/c/MinGW/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/Niloy/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Niloy/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.2.3/bin:/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $PS1
+[?2004l\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $HOME
+[?2004l/home/niloy
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ foo="bar"
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ export foo
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo j$[K[K$bar
+[?2004l
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo foo[K[K[K$foo
+[?2004lbar
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ export -n foo
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo foo
+[?2004lfoo
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $foo
+[?2004lbar
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ let k = i + j[K[K[K[K[K[K[K[K=i+j
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo$[K $k
+[?2004l0
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ let[K[K[Ki=4
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ j=6
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $k
+[?2004l0
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ k=$[K[K[Kk=$(i[K(i+J[Kj)0[K_[K)
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $k
+[?2004l10
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ls -R
+[?2004l.:
+ [0m[01;32m1[0m
+[01;32m'^C'$'\033''[?2004l'$'\r\033''[?2004h'$'\033''[?2004l'$'\r\r'[0m
+ [34;42mcse374-demo[0m
+ [01;32mfile1[0m
+ [01;32mfile2[0m
+ [01;32mhw0.script[0m
+ [01;32mhw1.part1[0m
+ [01;32mhw1.part2[0m
+[01;32m''$'\b\033''[K'[0m
+ [01;32mlec3.learnings[0m
+ [01;32mlec4.history[0m
+ [01;32mlinux.txt[0m
+ [01;32mmagic-word[0m
+ [01;32mmakealias[0m
+[01;32m'now'$'\r'[0m
+ [01;32mrecordinfo[0m
+[01;32m'sece'$'\b\033''[Kretfile'$'\r'[0m
+[01;32m's'$'\b\033''[K'[0m
+ [34;42mtemp374[0m
+ [01;32mtest.txt[0m
+ [01;32mtry.txt[0m
+ [01;32mwelcome.message[0m
+[01;32m'xyx'$'\b\033''[Kzzy'$'\b\b\b\b\b\b\b\b\b\033''[1P'[0m
+
+./cse374-demo:
+[01;32mhello[0m  [01;32mlscmd[0m  [01;32mweekend.txt[0m  [01;32mwelcome.message[0m
+
+./temp374:
+[34;42mfunfun[0m
+
+./temp374/funfun:
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ for file in*.txt
+[?2004lbash: syntax error near unexpected token `in*.txt'
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ for file[K[K[K[K[K[K[K[Kfor file in *.txt do echo $file done
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ for
+[?2004lbash: syntax error near unexpected token `newline'
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ cagt[K[Kt
+[?2004lfor file in *.txt
+for file in *.txt
+^C
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 19:45:38+06:00 [COMMAND_EXIT_CODE="130"]
+Script started on 2024-06-22 20:20:33+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ /[K#!/bin/n[Kbash
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ hekk[K[Kllo
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+hello: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ /bin[K[K[K[Kcd /bin/bash
+[?2004lbash: cd: /bin/bash: Not a directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ script learnforloops.sh
+[?2004lScript started, output log file is 'learnforloops.sh'.
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+Script done.
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 20:22:58+06:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-06-22 20:28:25+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano forl[K[K[K[K[K[K[K[K[Krm forlp[Koops.sh
+[?2004lrm: cannot remove 'forloops.sh': No such file or directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ rm forloop.sh
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano forloop.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;47H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                                   forloop.sh                                             [1;103H(B[m[48d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[48;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[49d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2d[?12l[?25h[?25l[1;61H(B[0;7m*[103G(B[m[?12l[?25h[2df[?25l[?12l[?25ho[?25l[?12l[?25h[32mfor[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h f[?25l[?12l[?25h[32mfi[39m(B[m[?25l[?12l[?25hfil[?25l[?12l[?25he[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h i[?25l[?12l[?25h[32min[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h *[?25l[?12l[?25h.[?25l[?12l[?25ht[?25l[?12l[?25hx[?25l[?12l[?25ht[?25l[?12l[?25h[42m [49m(B[m[?25l[3d[?12l[?25h[?25l[47d[K[?12l[?25h[3dd[?25l[?12l[?25h[32mdo[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[4d[?12l[?25h[?25l[?12l[?25he[?25l[?12l[?25hc[?25l[?12l[?25hh[?25l[?12l[?25h(B[0;1m[34mecho[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$f[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25hech[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25hm (B[0;1m[31m$file[C[39m(B[m[?25l[?12l[?25ho (B[0;1m[31m$file[3G[39m(B[m[?25l[?12l[?25hr (B[0;1m[31m$file[4G[39m(B[m[?25l[?12l[?25he (B[0;1m[31m$file[5G[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[5d[?25l[?12l[?25h[?25l[?12l[?25hd[?25l[?12l[?25h[32mdo[39m(B[m[?25l[?12l[?25hdon[?25l[?12l[?25h[32mdone[39m(B[m[?25l[47;46H(B[0;7m[ Writing... ](B[m[1;61H(B[0;7m [103G(B[m[47;44H(B[0;7m[ Wrote 4 lines ](B[m[?12l[?25h[5;5H[?25l[47d[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./forloop.sh 
+[?2004lCertainly! Here is the updated list incorporating the new shell history while maintaining the order and 
+not repeating any commands unnecessarily:
+
+1. `pwd` -> Print the current working directory.
+2. `ls` -> List files and directories in the current directory.
+3. `ls -a` -> List all files, including hidden files.
+4. `ls -al` -> List all files with detailed information.
+5. `cd` -> Change the current directory.
+6. `cd ..` -> Change to the parent directory.
+7. `cd .` -> Stay in the current directory (effectively does nothing).
+8. `cd ~` -> Change to the home directory.
+9. `cd ~username` -> Change to the home directory of a specific user.
+10. `cd /` -> Change to the root directory.
+11. `cd bin` -> Change to the 'bin' directory inside the current directory.
+12. `mkdir` -> Create a new directory.
+13. `rmdir` -> Delete an empty directory.
+14. `man` -> Display the manual page for a command.
+15. `info` -> Display detailed documentation for a command.
+16. `apropos` (or `man -k`) -> Search for commands by keyword.
+17. `clear` -> Clear the terminal screen.
+18. `exit` -> Exit the current shell session.
+19. `date` -> Display the current date and time.
+20. `cal` -> Display a text calendar.
+21. `uname` -> Display system information.
+22. `cp` -> Copy a file or directory.
+23. `mv` -> Move or rename a file or directory.
+24. `rm` -> Remove a file or directory.
+25. `touch` -> Update the file's last modified timestamp or create an empty file.
+26. `cat` -> Concatenate and display file content.
+27. `more` -> View file content one screen at a time.
+28. `less` -> View file content one screen at a time with backward movement.
+29. `head` -> Display the first few lines of a file.
+30. `tail` -> Display the last few lines of a file.
+31. `wc` -> Count lines, words, and characters in a file.
+32. `du` -> Display disk usage of files and directories.
+33. `diff` -> Compare two files line by line.
+34. `grep` -> Search for a pattern in a file.
+35. `sort` -> Sort lines of text files.
+36. `uniq` -> Report or omit repeated lines.
+37. `find` -> Search for files in a directory hierarchy.
+38. `locate` -> Find files by name.
+39. `which` -> Show the full path of shell commands.
+40. `history` -> Display the command history.
+41. `ps` -> Report a snapshot of current processes.
+42. `top` -> Display tasks and system status.
+43. `kill` -> Terminate a process by PID.
+44. `killall` -> Terminate processes by name.
+45. `bg` -> Resume a suspended process in the background.
+[7m--More--(40%)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano forloop.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;46H(B[0;7m[ Reading... ](B[m[47;45H(B[0;7m[ Read 4 lines ](B[m[H(B[0;7m  GNU nano 7.2                                   forloop.sh                                             [1;103H(B[m[48d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[48;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[49d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2d[32mfor[39m(B[m file [32min[39m(B[m *.txt[42m [3d[49m[32mdo[39m[42m [4d[49m(B[mmore (B[0;1m[31m$file[5d(B[0m[32mdone[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[1;61H(B[0;7m*[103G(B[m[?12l[?25h[4d[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25he (B[0;1m[31m$file[C[39m(B[m[?25l[?12l[?25hc (B[0;1m[31m$file[3G[39m(B[m[?25l[?12l[?25hh (B[0;1m[31m$file[4G[39m(B[m[?25l[?12l[?25h(B[0;1m[34mecho[39m(B[m (B[0;1m[31m$file[5G[39m(B[m[?25l[47;45H (B[0;7m[ Writing... ](B[m[K[1;61H(B[0;7m [103G(B[m[47;44H(B[0;7m[ Wrote 4 lines ](B[m[?12l[?25h[4;5H[?25l[47d[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./forloop.sh 
+[?2004llinux.txt
+test.txt
+try.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more tyr[K[Kry.txt
+[?2004l0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m
+[1]+  Stopped                 more try.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ cat try.txt
+[?2004l0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ cat >> ty[Kry.txt
+[?2004ld to concaen  tenate in va  bah sh ${foo}oo...where as is   n java o we ow  would foo + "" oo"^C
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more try.txt
+[?2004l0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ cat[K[K[Kecho :[K"to concatenate in bash ${foo}oo...where as in java we would foo + "oo"^C[K[K " try.txt 
+[?2004lto concatenate in bash oo...where as in java we would foo + oo  try.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more try.txt 
+[?2004l0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more try.txt echo "to concatenate in bash ${foo}oo...where as in java we would foo + "oo" " try.txt [C[1@ [1@>[C[1@ [1P[1@>[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more try.txt
+[?2004l0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash oo...where as in java we would foo + oo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash oo...where as in java we would foo + oo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash oo...where as in java we would foo + oo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash oo...where as in java we would foo + oo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash oo...where as in java we would foo + oo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K...back 1 page
+0
+1
+4
+0
+hello there
+hello there
+henry james
+mina arab
+to concatenate in bash oo...where as in java we would foo + oo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ code . try.txt
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ bg
+[?2004l[1]+ more try.txt &
+
+[1]+  Stopped                 more try.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ fg
+[?2004lmore try.txt
+[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ fg
+[?2004lbash: fg: current: no such job
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ bg
+[?2004lbash: bg: current: no such job
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 20:40:06+06:00 [COMMAND_EXIT_CODE="1"]
+Script started on 2024-06-22 20:40:51+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ #!/[K[K[Kls -R
+[?2004l.:
+ [0m[01;32m1[0m
+[01;32m'^C'$'\033''[?2004l'$'\r\033''[?2004h'$'\033''[?2004l'$'\r\r'[0m
+ [34;42mcse374-demo[0m
+ [01;32mfile1[0m
+ [01;32mfile2[0m
+ [01;32mforloop.sh[0m
+ [01;32mhw0.script[0m
+ [01;32mhw1.part1[0m
+ [01;32mhw1.part2[0m
+[01;32m''$'\b\033''[K'[0m
+ [01;32mlec3.learnings[0m
+ [01;32mlec4.history[0m
+ [01;32mlinux.txt[0m
+ [01;32mmagic-word[0m
+ [01;32mmakealias[0m
+[01;32m'now'$'\r'[0m
+ [01;32mrecordinfo[0m
+[01;32m'sece'$'\b\033''[Kretfile'$'\r'[0m
+[01;32m's'$'\b\033''[K'[0m
+ [34;42mtemp374[0m
+ [01;32mtest.txt[0m
+ [01;32mtry.txt[0m
+ [01;32mwelcome.message[0m
+[01;32m'xyx'$'\b\033''[Kzzy'$'\b\b\b\b\b\b\b\b\b\033''[1P'[0m
+
+./cse374-demo:
+[01;32mhello[0m  [01;32mlscmd[0m  [01;32mweekend.txt[0m  [01;32mwelcome.message[0m
+
+./temp374:
+[34;42mfunfun[0m
+
+./temp374/funfun:
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ s[Knano makeNFile.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;47H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                                  makeNFile.sh                                            [1;103H(B[m[48d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[48;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[49d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2d[?12l[?25h[?25l[1;62H(B[0;7m*[103G(B[m[?12l[?25h[2d[36m#[39m(B[m[?25l[?12l[?25h[36m~[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36m![39m(B[m[?25l[?12l[?25h[36m/[39m(B[m[?25l[?12l[?25h[36mb[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36m/[39m(B[m[?25l[?12l[?25h[36mb[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[3d[?12l[?25h[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m $[39m(B[m[?25l[?12l[?25h[36m0[39m(B[m[?25l[47d[K[?12l[?25h[3;5H[42m [49m(B[m[?25l[?12l[?25h[36m 7[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m w[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m m[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mk[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m 7[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m e[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36mp[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36my[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36m,[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m o[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36m1[39m(B[m[?25l[?12l[?25h[36m,[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36m0[39m(B[m[?25l[?12l[?25h[36m0[39m(B[m[?25l[?12l[?25h[36m2[39m(B[m[?25l[?12l[?25h[36m,[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36m2[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36m,[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m .[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36m7[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[4d[?12l[?25h[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mk[39m(B[m[?25l[?12l[?25h[36mk[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mp[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36mp[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m a[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36my[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m t[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m e[39m(B[m[?25l[?12l[?25h[36mx[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h [?25l[5d[?12l[?25h[?25l[?12l[?25hi[?25l[?12l[?25h[32mif[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m[[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h [32m-ne[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 2[?25l[?12l[?25h[32m}[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[32m][39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[6d[?12l[?25h[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[42m [49m(B[m[?25l7[5;47r8[5dM[1;49r[5;1H[?12l[?25h[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[36mf[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m w[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m d[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m a[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m a[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m c[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mc[39m(B[m[?25l[?12l[?25h[36mk[39m(B[m[?25l[?12l[?25h[6;16H[?25l[?12l[?25h[42m [49m(B[m[?25l[7d[?12l[?25h[?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25h[32mthen[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[8d[?12l[?25h[?25l[?12l[?25he[?25l[?12l[?25h[K[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h  e[?25l[?12l[?25hc[?25l[?12l[?25hh[?25l[?12l[?25h(B[0;1m[34mecho[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h "[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h[32m{[39m(B[m[?25l[?12l[?25h0[?25l[?12l[?25h(B[0;1m[31m${0}[39m(B[m[?25l[?12l[?25h[32m:[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h w[?25l[?12l[?25hr[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h n[?25l[?12l[?25hu[?25l[?12l[?25hm[?25l[?12l[?25hb[?25l[?12l[?25he[?25l[?12l[?25hr[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h o[?25l[?12l[?25hf[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h a[?25l[?12l[?25hr[?25l[?12l[?25hg[?25l[?12l[?25hu[?25l[?12l[?25he[?25l[?12l[?25hm[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25hn[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h[8G(B[0;1m[33m"${0}: wrong number of arguements"[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[9d[?12l[?25h[?25l[?12l[?25he[?25l[?12l[?25hx[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[8;43H[?12l[?25h[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[9d[?12l[?25h[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h   e[?25l[?12l[?25h[42m   [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h  e[?25l[?12l[?25hx[?25l[?12l[?25hi[?25l[?12l[?25h[32mexit[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 1[?25l[?12l[?25h[42m [49m(B[m[?25l[10d[?12l[?25h[?25l[?12l[?25hf[?25l[?12l[?25h[32mfi[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[11d[?12l[?25h[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mw[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m t[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m m[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m s[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36mf[39m(B[m[?25l[?12l[?25h[36mf[39m(B[m[?25l[12d[?12l[?25h[?25li[32m=[39m(B[m1[13d[?12l[?25hwhil[?25l[?12l[?25h[32mwhile[39m(B[m [32m[[39m(B[m (B[0;1m[31m$i[39m(B[m [32m-le[39m(B[m (B[0;1m[31m$1(B[0m[42m [49m(B[m[?25l [32m][14ddo[15d[39m(B[m[?12l[?25h  i[?25l[?12l[?25h[32mif[39m(B[m [32m[[39m(B[m [32m![39m(B[m -[?25l(B[0;1m[35m -f[39m(B[m (B[0;1m[31m$2$i[39m(B[m [32m][16d[39m(B[m[?12l[?25h  the[?25l[32mthen[17d(B[0;1m[34mtouch[39m(B[m (B[0;1m[31m$2$i[18;3H(B[0m[32mfi[19d[39m(B[m[?12l[?25h[?25l  [32m(([39m(B[m i[32m=(B[0;1m[31m$i[39m(B[m+1 [32m))[20ddone[22d[36m# success[23d[39m(B[m[?12l[?25hex[?25l[?12l[?25h[32mexit[39m(B[m 0[?25l[47;46H(B[0;7m[ Writing... ](B[m[1;62H(B[0;7m [103G(B[m[47;44H(B[0;7m[ Wrote 23 lines ](B[m[?12l[?25h[23;7H[?25l[47d[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./makeNFile.sh 
+[?2004l./makeNFile.sh: line 5: [: missing `]'
+./makeNFile.sh: line 12: [: 1: unary operator expected
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano./makeNFile.sh nano makeNFile.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;46H(B[0;7m[ Reading... ](B[m[47;44H(B[0;7m[ Read 23 lines ](B[m[H(B[0;7m  GNU nano 7.2                                  makeNFile.sh                                            [1;103H(B[m[48d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[48;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[49d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2d[36m#!/bin/bash[39m[42m [3d[49m[36m# $0 7 foo would make 7 empty files foo1, foo2, ... foo7[39m[42m [4d[49m[36m#skipping any files that exist[39m[42m [5d[49m[36m#first we do an arguement check[6d[32mif[39m(B[m [32m[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-ne[39m(B[m 2[32m][39m[42m  [7d[49m[32mthen[39m[42m [8;3H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"${0}: wrong number of arguements"(B[0m[42m [9;3H[49m[32mexit[39m(B[m 1[42m [10d[49m[32mfi[39m[42m [11d[49m[36m#now the main stuff[12d[39m(B[mi[32m=[39m(B[m1[13d[32mwhile[39m(B[m [32m[[39m(B[m (B[0;1m[31m$i[39m(B[m [32m-le[39m(B[m (B[0;1m[31m$1[39m(B[m [32m][14ddo[15dif[39m(B[m [32m[[39m(B[m [32m!(B[0;1m[35m -f[39m(B[m (B[0;1m[31m$2$i[39m(B[m [32m][16;3Hthen[17d(B[0;1m[34mtouch[39m(B[m (B[0;1m[31m$2$i[18;3H(B[0m[32mfi[19d(([39m(B[m i[32m=(B[0;1m[31m$i[39m(B[m+1 [32m))[20ddone[22d[36m# success[23d[32mexit[39m(B[m 0[2d[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[47;44H  (B[0;7m[ Writing... ](B[m[K[1;103H[47;44H(B[0;7m[ Wrote 23 lines ](B[m[?12l[?25h[7d[?25l[47d[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano makeNFile.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;46H(B[0;7m[ Reading... ](B[m[47;44H(B[0;7m[ Read 23 lines ](B[m[H(B[0;7m  GNU nano 7.2                                  makeNFile.sh                                            [1;103H(B[m[48d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[48;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[49d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2d[36m#!/bin/bash[39m[42m [3d[49m[36m# $0 7 foo would make 7 empty files foo1, foo2, ... foo7[39m[42m [4d[49m[36m#skipping any files that exist[39m[42m [5d[49m[36m#first we do an arguement check[6d[32mif[39m(B[m [32m[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-ne[39m(B[m 2[32m][39m[42m  [7d[49m[32mthen[39m[42m [8;3H(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"${0}: wrong number of arguements"(B[0m[42m [9;3H[49m[32mexit[39m(B[m 1[42m [10d[49m[32mfi[39m[42m [11d[49m[36m#now the main stuff[12d[39m(B[mi[32m=[39m(B[m1[13d[32mwhile[39m(B[m [32m[[39m(B[m (B[0;1m[31m$i[39m(B[m [32m-le[39m(B[m (B[0;1m[31m$1[39m(B[m [32m][14ddo[15dif[39m(B[m [32m[[39m(B[m [32m!(B[0;1m[35m -f[39m(B[m (B[0;1m[31m$2$i[39m(B[m [32m][16;3Hthen[17d(B[0;1m[34mtouch[39m(B[m (B[0;1m[31m$2$i[18;3H(B[0m[32mfi[19d(([39m(B[m i[32m=(B[0;1m[31m$i[39m(B[m+1 [32m))[20ddone[22d[36m# success[23d[32mexit[39m(B[m 0[2d[?12l[?25h[?25l[?12l[?25h[?25l[1;62H(B[0;7m*[103G(B[m[?12l[?25h[2d[32m![39m(B[m/bin/bash[42m [49m(B[m[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h[17d[?25l[47d[K[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[?12l[?25h[22d[?25l[?12l[?25h[23d[?25l[22;10H[36mexit 0[23d[39m(B[m[K[22;10H[?12l[?25h[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[23d[?25l[?12l[?25h[24d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[22;16H[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[A[?12l[?25h[?25l[20;5H[?12l[?25h[?25l[?12l[?25hdon[K[?25l[?12l[?25h[32mdo[39m(B[m[K[?25l[?12l[?25hd[K[?25l[?12l[?25h[K[?25l[19;15H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m  [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[18;5H[?12l[?25h[?25l[?12l[?25hf[K[?25l[?12l[?25h[42m  [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[17;15H[?12l[?25h[?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[5Gtouc[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m    [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[16;7H[?12l[?25h[?25l[?12l[?25h  the[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m  [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[15;19H[?12l[?25h[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h -[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25hi[K[?25l[?12l[?25h[42m  [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[14;3H[?12l[?25h[?25l[?12l[?25hd[K[?25l[?12l[?25h[K[?25l[13;20H[?12l[?25h[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h(B[0;1m[35m -l[39m(B[m[K[?25l[?12l[?25h -[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25hwhil[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25hc[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25hA[?25l[?12l[?25hR[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25hr[?25l[14d[?12l[?25h[?25l[13;6H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[12;4H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[11;20H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[10;4H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25hf[K[?25l[?12l[?25h[K[?25l[9;10H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h  exi[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m  [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[8;43H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h[8G"(B[0;1m[31m${0}(B[0m[32m:[39m(B[m wrong number of arguements[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[32m${[39m(B[m0[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h  ech[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m  [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[7;6H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25hthe[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[6;17H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[K[?25l[?12l[?25h -[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[32m$[39m(B[m[K[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25hi[K[?25l[?12l[?25h[K[?25l[5;32H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[4;32H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[3;58H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[2;12H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[36m#!/bin/bash[3d[39m(B[m[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[36m $0 7 f[39m(B[m[?25l[?12l[?25h[36moo would[39m(B[m[?25l[?12l[?25h[36m make 7 empty fi[39m(B[m[?25l[?12l[?25h[36mles foo1[39m(B[m[?25l[?12l[?25h[36m, foo2,[39m[42m [49m(B[m[?25l[?12l[?25h[36m ... foo7[39m(B[m[?25l[4d[?12l[?25h[36m# skip[39m(B[m[?25l[?12l[?25h[36mping any[39m(B[m[?25l[?12l[?25h[36m files t[39m(B[m[?25l[?12l[?25h[36mhat exis[39m(B[m[?25l[36mt[5d[39m(B[m[?12l[?25h[32mif[39m(B[m [32m[[39m(B[m [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$#[39m(B[m [32m-ne[39m[42m [49m(B[m[?25l 2 [32m][39m[42m [6d[49m(B[m[?12l[?25hthe[?25l[32mthen[7d[39m(B[m[?12l[?25h  (B[0;1m[34mecho[39m(B[m[?25l[?12l[?25h "[32m${[39m(B[m0[?25l[?12l[?25h(B[0;1m[31m${0}(B[0m[32m:[39m(B[m wro[?25l[?12l[?25hng numbe[?25l[?12l[?25hr of arg[?25l[?12l[?25h[8G(B[0;1m[33m"${0}: wrong number of arguments"[39m(B[m[?25l[42m [8d[49m(B[m[?12l[?25h  [32mexit[39m(B[m[?25l 1[9d[32mfi[10d[39m(B[m[?12l[?25hi[32m=[39m(B[m[?25l1[11d[?12l[?25h[32mwhile[39m[42m [49m(B[m[?25l[?12l[?25h [32m[[39m(B[m (B[0;1m[31m$i[35m -l[39m(B[m[?25l [32m-le[39m(B[m (B[0;1m[31m$1[39m(B[m [32m][12d[39m(B[m[?12l[?25h[?25l[32mdo[13d[39m(B[m[?12l[?25h  [32mif[39m[42m [49m(B[m[?25l[?12l[?25h [32m[[39m(B[m [32m!(B[0;1m[35m -f(B[0m[42m [49m(B[m[?25l[?12l[?25h (B[0;1m[31m$2$i[39m(B[m [32m][39m(B[m[?25l[14;3H[32mthen[15d[39m(B[m[?12l[?25h[?25l[?12l[?25h    touc[?25l(B[0;1m[34mtouch[39m(B[m (B[0;1m[31m$2$i[16;3H(B[0m[32mfi[17d[39m(B[m[?12l[?25h[42m  [49m(B[m[?25l[?12l[?25h  [32m(([39m(B[m i[32m=$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$i[39m(B[m+1 [32m)[39m(B[m[?25l[32m)[18ddone[19d[39m(B[m[?12l[?25h[?25l[20d[?12l[?25h[36m# succ[39m(B[m[?25l[36mess[21d[39m(B[m[?12l[?25h[32mexit[39m(B[m[?25l[?12l[?25h 0[?25l[47;46H(B[0;7m[ Writing... ](B[m[1;62H(B[0;7m [103G(B[m[47;44H(B[0;7m[ Wrote 20 lines ](B[m[?12l[?25h[21;7H[?25l[47d[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano makeNFile.sh[2P./makeNFile.sh 
+[?2004l./makeNFile.sh: wrong number of arguments
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./make.[KNFile.sh  7 foo[K[K[K[K[K3 fum
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano make
+makealias     makeNFile.sh  
+]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ nano makenam[K[K[KNFile.sh 
+[?2004l[?2004h[?1049h[22;0;0t[1;49r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[47;46H(B[0;7m[ Reading... ](B[m[47;44H(B[0;7m[ Read 20 lines ](B[m[H(B[0;7m  GNU nano 7.2                                  makeNFile.sh                                            [1;103H(B[m[48d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut[48;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[49d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2d[36m#!/bin/bash[3d# $0 7 foo would make 7 empty files foo1, foo2, ... foo7[4d# skipping any files that exist[5d[32mif[39m(B[m [32m[[39m(B[m (B[0;1m[31m$#[39m(B[m [32m-ne[39m(B[m 2 [32m][39m[42m [6d[49m[32mthen[7d(B[0;1m[34mecho[39m(B[m (B[0;1m[33m"${0}: wrong number of arguments"(B[0m[42m [8;3H[49m[32mexit[39m(B[m 1[9d[32mfi[10d[39m(B[mi[32m=[39m(B[m1[11d[32mwhile[39m(B[m [32m[[39m(B[m (B[0;1m[31m$i[39m(B[m [32m-le[39m(B[m (B[0;1m[31m$1[39m(B[m [32m][12ddo[13dif[39m(B[m [32m[[39m(B[m [32m!(B[0;1m[35m -f[39m(B[m (B[0;1m[31m$2$i[39m(B[m [32m][14;3Hthen[15d(B[0;1m[34mtouch[39m(B[m (B[0;1m[31m$2$i[16;3H(B[0m[32mfi[17d(([39m(B[m i[32m=(B[0;1m[31m$i[39m(B[m+1 [32m))[18ddone[20d[36m# success[21d[32mexit[39m(B[m 0[2d[?12l[?25h[?25l[47d[J[49d[?12l[?25h[49;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ls -R
+[?2004l.:
+ [0m[01;32m1[0m
+[01;32m'^C'$'\033''[?2004l'$'\r\033''[?2004h'$'\033''[?2004l'$'\r\r'[0m
+ [34;42mcse374-demo[0m
+ [01;32mfile1[0m
+ [01;32mfile2[0m
+ [01;32mforloop.sh[0m
+ [01;32mfum1[0m
+ [01;32mfum2[0m
+ [01;32mfum3[0m
+ [01;32mhw0.script[0m
+ [01;32mhw1.part1[0m
+ [01;32mhw1.part2[0m
+[01;32m''$'\b\033''[K'[0m
+ [01;32mlec3.learnings[0m
+ [01;32mlec4.history[0m
+ [01;32mlinux.txt[0m
+ [01;32mmagic-word[0m
+ [01;32mmakealias[0m
+ [01;32mmakeNFile.sh[0m
+[01;32m'now'$'\r'[0m
+ [01;32mrecordinfo[0m
+[01;32m'sece'$'\b\033''[Kretfile'$'\r'[0m
+[01;32m's'$'\b\033''[K'[0m
+ [34;42mtemp374[0m
+ [01;32mtest.txt[0m
+ [01;32mtry.txt[0m
+ [01;32mwelcome.message[0m
+[01;32m'xyx'$'\b\033''[Kzzy'$'\b\b\b\b\b\b\b\b\b\033''[1P'[0m
+
+./cse374-demo:
+[01;32mhello[0m  [01;32mlscmd[0m  [01;32mweekend.txt[0m  [01;32mwelcome.message[0m
+
+./temp374:
+[34;42mfunfun[0m
+
+./temp374/funfun:
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ more fum1
+[?2004l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[7m--More--[K(END)[27m[K[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ rm *fum
+[?2004lrm: cannot remove '*fum': No such file or directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ rm *fu[K[K[Kfum1 fum2 fum3
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ .[K./mke[K[KakeNfile/sh[K[K[K.sh 3 foo
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./makeNfile.sh 3 foo[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat[K[K[Ktouch donald micky minny goffy
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ls -l
+[?2004ltotal 168
+-rwxrwxrwx 1 niloy niloy     0 Jun 19 09:20  [0m[01;32m1[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 10:53 [01;32m'^C'$'\033''[?2004l'$'\r\033''[?2004h'$'\033''[?2004l'$'\r\r'[0m
+drwxrwxrwx 1 niloy niloy   512 Jun 19 21:06  [34;42mcse374-demo[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:59  [01;32mdonald[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 17 18:09  [01;32mfile1[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 17 18:09  [01;32mfile2[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:57  [01;32mfoo1[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:57  [01;32mfoo2[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:57  [01;32mfoo3[0m
+-rwxrwxrwx 1 niloy niloy    39 Jun 22 20:30  [01;32mforloop.sh[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:59  [01;32mgoffy[0m
+-rwxrwxrwx 1 niloy niloy  1406 Jun 16 00:05  [01;32mhw0.script[0m
+-rwxrwxrwx 1 niloy niloy  8312 Jun 22 13:02  [01;32mhw1.part1[0m
+-rwxrwxrwx 1 niloy niloy  1572 Jun 22 11:23  [01;32mhw1.part2[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 10:53 [01;32m''$'\b\033''[K'[0m
+-rwxrwxrwx 1 niloy niloy 60529 Jun 22 20:59  [01;32mlec3.learnings[0m
+-rwxrwxrwx 1 niloy niloy 12039 Jun 19 09:50  [01;32mlec4.history[0m
+-rwxrwxrwx 1 niloy niloy  6158 Jun 18 12:18  [01;32mlinux.txt[0m
+-rwxrwxrwx 1 niloy niloy     7 Jun 17 15:30  [01;32mmagic-word[0m
+-rwxrwxrwx 1 niloy niloy    24 Jun 18 21:40  [01;32mmakealias[0m
+-rwxrwxrwx 1 niloy niloy   288 Jun 22 20:49  [01;32mmakeNFile.sh[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:59  [01;32mmicky[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 20:59  [01;32mminny[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 21 23:10 [01;32m'now'$'\r'[0m
+-rwxrwxrwx 1 niloy niloy    80 Jun 18 21:45  [01;32mrecordinfo[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 10:53 [01;32m'sece'$'\b\033''[Kretfile'$'\r'[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 22 10:53 [01;32m's'$'\b\033''[K'[0m
+drwxrwxrwx 1 niloy niloy   512 Jun 17 18:39  [34;42mtemp374[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 15 20:21  [01;32mtest.txt[0m
+-rwxrwxrwx 1 niloy niloy   125 Jun 22 20:34  [01;32mtry.txt[0m
+-rwxrwxrwx 1 niloy niloy    31 Jun 18 17:37  [01;32mwelcome.message[0m
+-rwxrwxrwx 1 niloy niloy     0 Jun 21 23:10 [01;32m'xyx'$'\b\033''[Kzzy'$'\b\b\b\b\b\b\b\b\b\033''[1P'[0m
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./dcdls dir1 dki[K[Kir[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kma[Kk dir1/
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+mk: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ md[Kk dir1
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+mk: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ makdi[K[K[K[Kkdir dir1
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ma[Kkdir dir2
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ .dcdls[K[K[K[K[K/dcdls dir1 dir2
+[?2004lbash: ./dcdls: No such file or directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ rmdir dir1 dir2
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $?
+[?2004l0
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ jobs
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ ./[K[K[?2004l
+exit
+
+Script done on 2024-06-22 21:41:57+06:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-06-22 21:44:43+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [[ l [K[K3 -lt 2 ]]
+[?2004l[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ echo $?
+[?2004l1
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374[00m$ [?2004l
+exit
+
+Script done on 2024-06-22 21:46:08+06:00 [COMMAND_EXIT_CODE="0"]
