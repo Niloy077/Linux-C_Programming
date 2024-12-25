@@ -1,0 +1,2 @@
+Could not find command-not-found database. Run 'sudo apt update' to populate it.
+java: command not found

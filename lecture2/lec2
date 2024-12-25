@@ -1,0 +1,276 @@
+Script started on 2024-06-25 10:15:51+06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="90" LINES="49"]
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ exit [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C*[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cprintenv[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ echo hello[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ $ echo tweet[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ echo [2Ptweet[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ $ echo tweet[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ echo [2Phello[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ print[2Penv[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ *[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C*[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cprintenv[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ echo hello[A]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ $ echo tweet[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Khead -n[K4 fruits.ts[Kxt
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+head-4: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ head  -n 4 fruitls.[K[K[Kts[K[Ks.txt
+[?2004laçaí
+cloudberry
+purple mangosteen
+salak
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ tail  -5 furi[K[K[Kruits.txt
+[?2004lcucumber
+eggplant
+olive
+pea
+zucchini
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ wc - l[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf ruits.txt
+[?2004l 130  176 1392 fruits.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ wc - l fruits.txt
+[?2004l130 fruits.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ wcc[K - w fruits.txt
+[?2004l176 fruits.txt
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ head  fuit[K[Kr[K[Kruits.txt
+[?2004laçaí
+cloudberry
+purple mangosteen
+salak
+dragonfruit (or pitaya)
+durian
+pear
+tamarind
+salal berry
+tayberry
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ sort  f[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Ksort [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004lfruits.s txt
+^C
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ clea r
+[?2004l[H[2J[3J[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ sort [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct  fruits.txt
+[?2004laçaí
+akee
+apple
+apricot
+asian pear (chinese pear, nashi pear)
+asian pear (ya pear, chinese white pear)
+avocado
+avocado
+banana
+bell pepper
+bilberry
+blackberry
+blackcurrant
+black sapote
+blood orange
+blueberry
+boysenberry
+boysenberry
+buddha's hand (fingered citron)
+cantaloupe
+cherimoya (custard apple)
+cherry
+chico fruit
+chile pepper
+clementine
+cloudberry
+cloudberry
+cloudberry
+coconut
+corn kernel
+crab apples
+cranberry
+cranberry
+cucumber
+cucumber
+currant
+damson
+date
+dragonfruit (or pitaya)
+durian
+eggplant
+elderberry
+elderberry
+elderberry
+elderberry
+feijoa
+fig
+goji berry
+gooseberry
+gooseberry
+gooseberry
+gooseberry
+grape
+grapefruit
+guava
+honeyberry
+honeydew
+huckleberry
+jabuticaba
+jackfruit
+jambul
+japanese plum
+jostaberry
+jujube
+juniper berry
+kiwano (horned melon)
+kiwifruit
+kumquat
+lemon
+lime
+loganberry
+longan
+loquat
+lychee
+mandarine
+mango
+mangosteen
+marionberry
+marionberry
+marionberry
+melon
+miracle fruit
+mulberry
+mulberry
+nance
+nectarine
+olive
+orange
+papaya
+passionfruit
+pea
+peach
+pear
+persimmon
+pineapple
+pineberry
+plantain
+plum
+plumcot (or pluot)
+pomegranate
+pomelo
+prune (dried plum)
+pumpkin
+purple mangosteen
+quince
+raisin
+rambutan (or mamin chino)
+raspberry
+redcurrant
+salak
+salal berry
+salmonberry
+satsuma
+soursop
+squash
+star apple
+star fruit
+strawberry
+surinam cherry
+tamarillo
+tamarind
+tangerine
+tayberry
+tomato
+ugli fruit
+watermelon
+white currant
+white sapote
+yuzu
+zucchini
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ head  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Kman  sort
+[?2004l[?1049h[22;0;0t[?1h=SORT(1)                              User Commands                              SORT(1)[m
+[m
+[1mNAME[0m[m
+       sort - sort lines of text files[m
+[m
+[1mSYNOPSIS[0m[m
+       [1msort[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+       [1msort[0m [[4mOPTION[24m]... [4m--files0-from=F[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Write sorted concatenation of all FILE(s) to standard output.[m
+[m
+       With no FILE, or when FILE is -, read standard input.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.  Order‐[m
+       ing options:[m
+[m
+       [1m-b[0m, [1m--ignore-leading-blanks[0m[m
+              ignore leading blanks[m
+[m
+       [1m-d[0m, [1m--dictionary-order[0m[m
+              consider only blanks and alphanumeric characters[m
+[m
+       [1m-f[0m, [1m--ignore-case[0m[m
+              fold lower case to upper case characters[m
+[m
+       [1m-g[0m, [1m--general-numeric-sort[0m[m
+              compare according to general numerical value[m
+[m
+       [1m-i[0m, [1m--ignore-nonprinting[0m[m
+              consider only printable characters[m
+[m
+       [1m-M[0m, [1m--month-sort[0m[m
+              compare (unknown) < 'JAN' < ... < 'DEC'[m
+[m
+       [1m-h[0m, [1m--human-numeric-sort[0m[m
+              compare human readable numbers (e.g., 2K 1G)[m
+[m
+       [1m-n[0m, [1m--numeric-sort[0m[m
+              compare according to string numerical value[m
+[m
+       [1m-R[0m, [1m--random-sort[0m[m
+              shuffle, but group identical keys.  See [1mshuf[0m(1)[m
+[m
+       [1m--random-source[0m=[4mFILE[24m[m
+              get random bytes from FILE[m
+[m
+       [1m-r[0m, [1m--reverse[0m[m
+[7m Manual page sort(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ grep  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp  "berry" frit[K[Kuits.txt
+[?2004lcloudberry
+salal berry
+tayberry
+elderberry
+cranberry
+blackberry
+elderberry
+jostaberry
+boysenberry
+honeyberry
+gooseberry
+huckleberry
+strawberry
+cranberry
+marionberry
+bilberry
+blueberry
+gooseberry
+boysenberry
+elderberry
+loganberry
+marionberry
+goji berry
+gooseberry
+pineberry
+mulberry
+cloudberry
+mulberry
+gooseberry
+elderberry
+cloudberry
+marionberry
+juniper berry
+raspberry
+salmonberry
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ grep  'ai[Ksiar [K[Kn pear' fruits.txt
+[?2004lasian pear (ya pear, chinese white pear)
+asian pear (chinese pear, nashi pear)
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ grep  "TODO" project/*
+[?2004lgrep: project/*: No such file or directory
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ ls
+[?2004l[0m[01;32mfruits.txt[0m  [01;32mhamlet.txt[0m  [01;32mHelloWorld.java[0m  [01;32mlec2[0m  [01;32mnumbers.txt[0m  [01;32mSimpleGrep.java[0m  [01;32mveggies.txt[0m
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ java c HE[KelloWorld.java 
+[?2004lCould not find command-not-found database. Run 'sudo apt update' to populate it.
+javac: command not found
+[?2004h]0;niloy@LAPTOP-UB23RQRP: /mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[01;32mniloy@LAPTOP-UB23RQRP[00m:[01;34m/mnt/c/users/niloy/desktop/cse374/Linux-C_Programming/lecture2[00m$ [?2004l
+exit
+
+Script done on 2024-06-25 10:46:08+06:00 [COMMAND_EXIT_CODE="127"]

@@ -1,0 +1,5 @@
+# CSE 374 22sp Homework 2, Problem 2
+# Your Name, Date
+
+alias private='chmod -R g=u,o-rwx'
+
